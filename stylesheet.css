@@ -1,0 +1,17 @@
+body{
+
+    background-color: #678DC6;
+}
+
+body div{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    justify-content: top;
+    height: 800px;
+    width: 600px;
+}
+
+#textbox{
+    align-self: center;
+}
