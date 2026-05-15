@@ -4,7 +4,7 @@ Let this Journey begin!
 
 <h2> Browser-Editor! </h2>
 
-This is going to be a *basic* Project. 
+This is going to be a <b>*basic*</b> Project. 
 
 The Textor editor should be able to:
 
@@ -16,5 +16,5 @@ The Textor editor should be able to:
 - Change between the text filed that are saved in the chache
 - Import a Textfile into the Browser
 
-- 15.05.2026
+<b>*15.05.2026*</b>
 
